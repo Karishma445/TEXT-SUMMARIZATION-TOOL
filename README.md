@@ -1,7 +1,7 @@
 # TEXT-SUMMARIZATION-TOOL
 *Company name*=codtec it solutions
 
-*Intern id*=codes111
+*Intern id*=CT06DZ2134
 
 *Name*=karishma
 
@@ -71,4 +71,7 @@ Integrating into content summarization bots
 
 📜 Conclusion
 This Text Summarization Tool serves as a strong demonstration of how state-of-the-art Natural Language Processing models can be used to solve real-world problems. It is an ideal starting point for anyone looking to explore the capabilities of AI in text processing. As part of the CODTECH internship, this project reflects a fundamental understanding of NLP, summarization techniques, and practical model deployment using Python.
+output
+<img width="540" height="317" alt="Image" src="https://github.com/user-attachments/assets/4ccc6b00-594b-4f32-9fc2-1551e4d72d98" />
+
 
